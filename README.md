@@ -1,2 +1,2 @@
 # CSC226-GroupProject
- Our group project
+What is the project going to be about?
