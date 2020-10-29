@@ -1,0 +1,4 @@
+We will be designing an ecommerce website. The site will allow customers to choose products, and the quantity of that product, that will be saved in a shopping cart.
+The customer will then place and order and get a receipt. The database will keep track of the inventory of each product as each order is placed. 
+The customer will need to sign-up for and an account before they can place an order. 
+The website will allow sign-up, login, logout and allow customers to check the status of their order when logged in.
