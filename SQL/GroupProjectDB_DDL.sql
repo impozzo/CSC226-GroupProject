@@ -17,11 +17,12 @@ CREATE TABLE `product` (
   `ProductID` int(11) NOT NULL AUTO_INCREMENT,
   `Name` varchar(100) NOT NULL,
   `Description` varchar(1000) DEFAULT NULL,
+  `Catagory` varchar(24) DEFAULT NULL,
   `Inventory` int(11) NOT NULL DEFAULT 100,
   `Price` decimal(10,0) NOT NULL,
   `ImageName` varchar(128) DEFAULT NULL,
   PRIMARY KEY (`ProductID`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4; 
 
 -- `226-projectdb`.`order` definition
 
